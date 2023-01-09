@@ -1,0 +1,35 @@
+.App {
+  text-align: center
+}
+
+.menubar {
+  text-align: left;
+  background-color: #e9e9ed
+}
+
+.toolbar {
+  text-align: center;
+  background-color: #e9e9ed
+}
+
+.worksheet {
+  justify-content: center;
+  background-color: white
+}
+
+.sidepanel {
+  text-align: center;
+  background-color: #e9e9ed
+}
+
+.colorsample {
+  float: left;
+  height: 20px;
+  width: 20px;
+  border: 1px solid black;
+  clear: both;
+}
+
+.closebutton {
+  float: right
+}
